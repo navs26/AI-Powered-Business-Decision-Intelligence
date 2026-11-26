@@ -1,0 +1,11 @@
+Order ID,Product,Region,Sales,Profit
+101,Laptop,South,45000,8000
+102,Phone,North,25000,5000
+103,Tablet,East,12000,2000
+104,Laptop,West,52000,10000
+105,Phone,South,18000,3500
+106,Tablet,North,15000,2500
+107,Laptop,East,60000,12000
+108,Phone,West,22000,4500
+109,Tablet,South,10000,1500
+110,Laptop,North,48000,9000
